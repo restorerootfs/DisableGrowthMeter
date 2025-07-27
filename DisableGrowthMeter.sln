@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableGrowthMeter", "NoManeaterTransform\DisableGrowthMeter.csproj", "{7B1E7E95-4E01-452A-A09B-442AA6C31B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1E7E95-4E01-452A-A09B-442AA6C31B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1E7E95-4E01-452A-A09B-442AA6C31B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1E7E95-4E01-452A-A09B-442AA6C31B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1E7E95-4E01-452A-A09B-442AA6C31B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAFF8E5-4880-489E-A752-B9D65D97DDB0}
+	EndGlobalSection
+EndGlobal

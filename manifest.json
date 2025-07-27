@@ -1,9 +1,0 @@
-{
-    "name": "DisableGrowthMeter",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Experimental fix to stop the Maneater from growing after its growth meter gets too high",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}
